@@ -1,18 +1,24 @@
-# 🌌 Welcome to MasterJodd's GitHub Universe! 🚀  
+# 🌌 **Welcome to MasterJodd's GitHub Universe!** 🚀  
 
-**"Exploring the frontiers of technology, one line of code at a time."**  
-
----
-
-### 👾 About Me  
-- 🔭 Currently working on: **Web Development and AI Projects**  
-- 🌱 Expanding my skills in: **Artificial Intelligence, Frontend & Backend Development**  
-- 💡 Passionate about: **Technology, Science, Innovation**  
-- 📚 Motto: *"Code, Learn, Innovate, Repeat."*  
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=7CFC00&background=000000&center=true&vCenter=true&lines=Innovator+%7C+Coder+%7C+Learner;Exploring+the+Future+with+Technology;Open+to+Collaboration+and+Ideas!" alt="Typing SVG">
+</div>  
 
 ---
 
-### 🔧 Tech Stack  
+### 👾 **About Me**  
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/70228796/173199602-8b92d254-1405-4b1e-bd7e-c1f2917bd79a.gif" alt="Coder" width="200">
+</div>  
+
+- 🔭 **Currently working on**: Web Development and AI Projects  
+- 🌱 **Expanding my skills in**: Artificial Intelligence, Frontend & Backend Development  
+- 💡 **Passionate about**: Technology, Science, Innovation  
+- 📚 **Motto**: *"Code, Learn, Innovate, Repeat."*  
+
+---
+
+### 🔧 **Tech Stack**  
 
 **Languages**:  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
@@ -25,24 +31,43 @@
 
 ---
 
-### 🛠️ Current Projects  
-- **[Theorix](#):** A platform offering free learning resources for science and mathematics.  
-- **[Portfolio Website](#):** Showcasing my work and projects with a sleek, modern design.  
+### 🛠️ **Current Projects**  
+
+💡 **[Theorix](#)**  
+> A platform offering free learning resources for science and mathematics.  
+- 📂 Focus: Research papers, curated videos, and theoretical books.  
+- 🚀 Mission: To make advanced learning accessible to everyone.  
+
+🌐 **[Portfolio Website](#)**  
+> A modern portfolio to showcase my projects and achievements.  
+- 🎨 Built with: React, TailwindCSS, and Node.js.  
+- ✨ Features: Minimalist design, project highlights, and blog section.  
 
 ---
 
-### 🚀 Stats & Highlights  
+### 🚀 **Stats & Highlights**  
 
-![MasterJodd's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MasterJodd&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterJodd&layout=compact&theme=radical)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MasterJodd&theme=radical)  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MasterJodd&show_icons=true&theme=radical" alt="GitHub Stats" width="400">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasterJodd&layout=compact&theme=radical" alt="Top Langs" width="400">  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MasterJodd&theme=radical" alt="Streak Stats" width="400">  
+</div>  
 
 ---
 
-### 🌟 Let's Connect  
-- 📧 Email: **[priyanshugupta131208@gmail.com](mailto:priyanshugupta131208@gmail.com)**  
-- 💬 Instagram: [@masterr_jod](https://www.instagram.com/masterr_jod/)  
-- 🐦 Twitter: [@Priyanshu_rajx](https://x.com/Priyanshu_rajx)  
+### 🌟 **Let's Connect**  
+
+<div align="center">
+  <a href="mailto:priyanshugupta131208@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.instagram.com/masterr_jod/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://x.com/Priyanshu_rajx">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+</div>  
 
 ---
 
