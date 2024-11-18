@@ -110,7 +110,52 @@
 </div>  
 
 ---
-
+<div align="center">
+  <h2>🏆 Achievements</h2>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/color/96/trophy.png" width="80" alt="MultiLanguage" />
+        <br><b>MultiLanguage</b>
+        <br>Rainbow Lang User
+        <br><i>10pts</i>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/96/trophy.png" width="80" alt="Commits" />
+        <br><b>Commits</b>
+        <br>God Committer
+        <br><i>13.2kpts</i>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/96/trophy.png" width="80" alt="Followers" />
+        <br><b>Followers</b>
+        <br>Super Celebrity
+        <br><i>9.1kpts</i>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/color/96/trophy.png" width="80" alt="Stars" />
+        <br><b>Stars</b>
+        <br>Stargazer
+        <br><i>310pts</i>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/96/trophy.png" width="80" alt="Issues" />
+        <br><b>Issues</b>
+        <br>Super Issuer
+        <br><i>201pts</i>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/96/trophy.png" width="80" alt="PullRequest" />
+        <br><b>Pull Requests</b>
+        <br>Super Puller
+        <br><i>200pts</i>
+      </td>
+    </tr>
+  </table>
+</div>
+---
 <div>
 <img src="https://readme-typing-svg.herokuapp.com?font=Patrick+Hand+SC&color=FFFF00&size=26&lines=Let's+Connect+:">  
 </div>  
