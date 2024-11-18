@@ -155,7 +155,9 @@
     </tr>
   </table>
 </div>
+
 ---
+
 <div>
 <img src="https://readme-typing-svg.herokuapp.com?font=Patrick+Hand+SC&color=FFFF00&size=26&lines=Let's+Connect+:">  
 </div>  
