@@ -108,47 +108,47 @@
 
 ---
 <div align="center">
-  <h2>🏆 **Achievements Unlocked!** 🏆</h2>
-  
-  <table>
+  <h2>🚀 **Achievements Unlocked!** 🚀</h2>
+
+  <table style="border-collapse: collapse; margin: 20px auto;">
     <tr>
       <td align="center">
-        <img src="https://img.icons8.com/color/96/000000/trophy.png" alt="Trophy Icon" width="80">
-        <h4>MultiLanguage</h4>
-        <p>Rainbow Lang User</p>
-        <p><b>10pt</b></p>
+        <img src="https://img.icons8.com/fluency/96/medal.png" alt="Medal Icon" width="90">
+        <h3 style="color: #FF6A00; font-weight: bold;">MultiLanguage</h3>
+        <p style="color: #A9A9A9;">🌈 Rainbow Lang User</p>
+        <p style="font-size: 18px; font-weight: bold; color: #FFD700;">10 pts</p>
       </td>
       <td align="center">
-        <img src="https://img.icons8.com/color/96/000000/code.png" alt="Code Icon" width="80">
-        <h4>Commits</h4>
-        <p>God Committer</p>
-        <p><b>13.2kpt</b></p>
+        <img src="https://img.icons8.com/3d-fluency/96/source-code.png" alt="Code Icon" width="90">
+        <h3 style="color: #6C63FF; font-weight: bold;">Commits</h3>
+        <p style="color: #A9A9A9;">⚡ God Committer</p>
+        <p style="font-size: 18px; font-weight: bold; color: #FFD700;">13.2k pts</p>
       </td>
       <td align="center">
-        <img src="https://img.icons8.com/color/96/000000/celebrity.png" alt="Celebrity Icon" width="80">
-        <h4>Followers</h4>
-        <p>Super Celebrity</p>
-        <p><b>9.1kpt</b></p>
+        <img src="https://img.icons8.com/3d-fluency/96/crowd.png" alt="Celebrity Icon" width="90">
+        <h3 style="color: #FF1493; font-weight: bold;">Followers</h3>
+        <p style="color: #A9A9A9;">⭐ Super Celebrity</p>
+        <p style="font-size: 18px; font-weight: bold; color: #FFD700;">9.1k pts</p>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.icons8.com/color/96/000000/star.png" alt="Star Icon" width="80">
-        <h4>Stars</h4>
-        <p>Stargazer</p>
-        <p><b>310pt</b></p>
+        <img src="https://img.icons8.com/external-tal-revivo-3d-tal-revivo/96/external-star-reward-system-tal-revivo-3d-tal-revivo.png" alt="Star Icon" width="90">
+        <h3 style="color: #1E90FF; font-weight: bold;">Stars</h3>
+        <p style="color: #A9A9A9;">🌟 Stargazer</p>
+        <p style="font-size: 18px; font-weight: bold; color: #FFD700;">310 pts</p>
       </td>
       <td align="center">
-        <img src="https://img.icons8.com/color/96/000000/document.png" alt="Document Icon" width="80">
-        <h4>Issues</h4>
-        <p>Super Issuer</p>
-        <p><b>201pt</b></p>
+        <img src="https://img.icons8.com/external-tal-revivo-3d-tal-revivo/96/external-issue-management-software-service-tal-revivo-3d-tal-revivo.png" alt="Issue Icon" width="90">
+        <h3 style="color: #20B2AA; font-weight: bold;">Issues</h3>
+        <p style="color: #A9A9A9;">⚙️ Super Issuer</p>
+        <p style="font-size: 18px; font-weight: bold; color: #FFD700;">201 pts</p>
       </td>
       <td align="center">
-        <img src="https://img.icons8.com/color/96/000000/pull-request.png" alt="Pull Request Icon" width="80">
-        <h4>Pull Requests</h4>
-        <p>Super Puller</p>
-        <p><b>200pt</b></p>
+        <img src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/96/external-request-ui-flatart-icons-flat-flatarticons.png" alt="Pull Request Icon" width="90">
+        <h3 style="color: #FF4500; font-weight: bold;">Pull Requests</h3>
+        <p style="color: #A9A9A9;">🚀 Super Puller</p>
+        <p style="font-size: 18px; font-weight: bold; color: #FFD700;">200 pts</p>
       </td>
     </tr>
   </table>
