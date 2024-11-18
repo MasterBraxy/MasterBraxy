@@ -1,20 +1,25 @@
+<div align="center">
 # 🌌 **Welcome to MasterJodd's GitHub Universe!** 🚀  
+</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=7CFC00&background=000000&center=true&vCenter=true&lines=Innovator+%7C+Coder+%7C+Learner;Exploring+the+Future+with+Technology;Open+to+Collaboration+and+Ideas!" alt="Typing SVG">
-</div>  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&color=7CFC00&background=000000&center=true&vCenter=true&lines=MasterJodd+!;MasterJodd+!;MasterJodd+!" alt="Typing SVG">
+</div>   
 
 ---
 
 ### 👾 **About Me**  
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/70228796/173199602-8b92d254-1405-4b1e-bd7e-c1f2917bd79a.gif" alt="Coder" width="200">
 </div>  
 
 - 🔭 **Currently working on**: Web Development and AI Projects  
 - 🌱 **Expanding my skills in**: Artificial Intelligence, Frontend & Backend Development  
-- 💡 **Passionate about**: Technology, Science, Innovation  
+- 💡 **Passionate about**: Technology, Science, and Innovation  
 - 📚 **Motto**: *"Code, Learn, Innovate, Repeat."*  
+- 🤝 **Open to collaborations** on: Open-source projects and innovative ideas.  
+- 🎯 **Vision**: Making technology accessible to empower creative minds globally.  
 
 ---
 
@@ -33,15 +38,20 @@
 
 ### 🛠️ **Current Projects**  
 
-💡 **[Theorix](#)**  
-> A platform offering free learning resources for science and mathematics.  
-- 📂 Focus: Research papers, curated videos, and theoretical books.  
-- 🚀 Mission: To make advanced learning accessible to everyone.  
+🌐 **[EduViti](https://eduviti.me/)**  
+> An innovative educational platform blending traditional and futuristic approaches to learning.  
+- 💡 **Concept**: Interactive tools, live problem-solving, and AI-driven learning paths.  
+- 🔗 **Vision**: Empowering students with tools to excel in competitive fields.  
+- 🔧 **Tools**: Django, PostgreSQL, and Angular.
+---
 
-🌐 **[Portfolio Website](#)**  
-> A modern portfolio to showcase my projects and achievements.  
-- 🎨 Built with: React, TailwindCSS, and Node.js.  
-- ✨ Features: Minimalist design, project highlights, and blog section.  
+### 🌟 **Upcoming Projects**  
+
+🚀 **[Theorix](#)**  
+> A platform offering free learning resources for science and mathematics.  
+- 📂 **Focus**: Research papers, curated videos, and theoretical books.  
+- 🛠️ **Tech Stack**: React, Firebase, and Python.  
+- 🎯 **Goal**: Making advanced learning materials accessible worldwide.  
 
 ---
 
