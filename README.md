@@ -108,24 +108,24 @@
 
 ---
 <div align="center">
-  <h2>🚀 **Achievements Unlocked!** 🚀</h2>
+  <h2>🏆 **Achievements Unlocked!** 🏆</h2>
 
   <table style="border-collapse: collapse; margin: 20px auto;">
     <tr>
       <td align="center">
-        <img src="https://img.icons8.com/fluency/96/medal.png" alt="Medal Icon" width="90">
+        <img src="https://img.icons8.com/external-justicon-flat-justicon/128/external-trophy-awards-justicon-flat-justicon-1.png" alt="MultiLanguage Trophy" width="100">
         <h3 style="color: #FF6A00; font-weight: bold;">MultiLanguage</h3>
         <p style="color: #A9A9A9;">🌈 Rainbow Lang User</p>
         <p style="font-size: 18px; font-weight: bold; color: #FFD700;">10 pts</p>
       </td>
       <td align="center">
-        <img src="https://img.icons8.com/3d-fluency/96/source-code.png" alt="Code Icon" width="90">
+        <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/128/external-trophy-achievements-flaticons-lineal-color-flat-icons-2.png" alt="Commits Trophy" width="100">
         <h3 style="color: #6C63FF; font-weight: bold;">Commits</h3>
         <p style="color: #A9A9A9;">⚡ God Committer</p>
         <p style="font-size: 18px; font-weight: bold; color: #FFD700;">13.2k pts</p>
       </td>
       <td align="center">
-        <img src="https://img.icons8.com/3d-fluency/96/crowd.png" alt="Celebrity Icon" width="90">
+        <img src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/128/external-trophy-trophy-and-awards-flatart-icons-flat-flatarticons.png" alt="Followers Trophy" width="100">
         <h3 style="color: #FF1493; font-weight: bold;">Followers</h3>
         <p style="color: #A9A9A9;">⭐ Super Celebrity</p>
         <p style="font-size: 18px; font-weight: bold; color: #FFD700;">9.1k pts</p>
@@ -133,19 +133,19 @@
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.icons8.com/external-tal-revivo-3d-tal-revivo/96/external-star-reward-system-tal-revivo-3d-tal-revivo.png" alt="Star Icon" width="90">
+        <img src="https://img.icons8.com/external-icongeek26-flat-icongeek26/128/external-trophy-awards-icongeek26-flat-icongeek26.png" alt="Stars Trophy" width="100">
         <h3 style="color: #1E90FF; font-weight: bold;">Stars</h3>
         <p style="color: #A9A9A9;">🌟 Stargazer</p>
         <p style="font-size: 18px; font-weight: bold; color: #FFD700;">310 pts</p>
       </td>
       <td align="center">
-        <img src="https://img.icons8.com/external-tal-revivo-3d-tal-revivo/96/external-issue-management-software-service-tal-revivo-3d-tal-revivo.png" alt="Issue Icon" width="90">
+        <img src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/128/external-issue-management-icon-tal-revivo-bold-tal-revivo.png" alt="Issues Trophy" width="100">
         <h3 style="color: #20B2AA; font-weight: bold;">Issues</h3>
         <p style="color: #A9A9A9;">⚙️ Super Issuer</p>
         <p style="font-size: 18px; font-weight: bold; color: #FFD700;">201 pts</p>
       </td>
       <td align="center">
-        <img src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/96/external-request-ui-flatart-icons-flat-flatarticons.png" alt="Pull Request Icon" width="90">
+        <img src="https://img.icons8.com/external-flat-wichaiwi/128/external-trophy-achievement-flat-wichaiwi.png" alt="Pull Requests Trophy" width="100">
         <h3 style="color: #FF4500; font-weight: bold;">Pull Requests</h3>
         <p style="color: #A9A9A9;">🚀 Super Puller</p>
         <p style="font-size: 18px; font-weight: bold; color: #FFD700;">200 pts</p>
@@ -153,7 +153,6 @@
     </tr>
   </table>
 </div>
-
 
            
 ---
