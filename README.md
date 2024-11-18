@@ -108,51 +108,54 @@
 
 ---
 <div align="center">
-  <h2>🏆 Achievements</h2>
+  <h2>🏆 **Achievements Unlocked!** 🏆</h2>
+  
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-trophy-sport-and-awards-flaticons-lineal-color-flat-icons.png" width="70" alt="MultiLanguage" />
-        <br><b style="color: #FF69B4;">MultiLanguage</b>
-        <br><span style="color: #FFD700;">Rainbow Lang User</span>
-        <br><i style="color: #00FFFF;">10pts</i>
+        <img src="https://img.icons8.com/color/96/000000/trophy.png" alt="Trophy Icon" width="80">
+        <h4>MultiLanguage</h4>
+        <p>Rainbow Lang User</p>
+        <p><b>10pt</b></p>
       </td>
       <td align="center">
-        <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-trophy-sport-and-awards-flaticons-lineal-color-flat-icons.png" width="70" alt="Commits" />
-        <br><b style="color: #FF69B4;">Commits</b>
-        <br><span style="color: #FFD700;">God Committer</span>
-        <br><i style="color: #00FFFF;">13.2kpts</i>
+        <img src="https://img.icons8.com/color/96/000000/code.png" alt="Code Icon" width="80">
+        <h4>Commits</h4>
+        <p>God Committer</p>
+        <p><b>13.2kpt</b></p>
       </td>
       <td align="center">
-        <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-trophy-sport-and-awards-flaticons-lineal-color-flat-icons.png" width="70" alt="Followers" />
-        <br><b style="color: #FF69B4;">Followers</b>
-        <br><span style="color: #FFD700;">Super Celebrity</span>
-        <br><i style="color: #00FFFF;">9.1kpts</i>
+        <img src="https://img.icons8.com/color/96/000000/celebrity.png" alt="Celebrity Icon" width="80">
+        <h4>Followers</h4>
+        <p>Super Celebrity</p>
+        <p><b>9.1kpt</b></p>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-trophy-sport-and-awards-flaticons-lineal-color-flat-icons.png" width="70" alt="Stars" />
-        <br><b style="color: #FF69B4;">Stars</b>
-        <br><span style="color: #FFD700;">Stargazer</span>
-        <br><i style="color: #00FFFF;">310pts</i>
+        <img src="https://img.icons8.com/color/96/000000/star.png" alt="Star Icon" width="80">
+        <h4>Stars</h4>
+        <p>Stargazer</p>
+        <p><b>310pt</b></p>
       </td>
       <td align="center">
-        <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-trophy-sport-and-awards-flaticons-lineal-color-flat-icons.png" width="70" alt="Issues" />
-        <br><b style="color: #FF69B4;">Issues</b>
-        <br><span style="color: #FFD700;">Super Issuer</span>
-        <br><i style="color: #00FFFF;">201pts</i>
+        <img src="https://img.icons8.com/color/96/000000/document.png" alt="Document Icon" width="80">
+        <h4>Issues</h4>
+        <p>Super Issuer</p>
+        <p><b>201pt</b></p>
       </td>
       <td align="center">
-        <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-trophy-sport-and-awards-flaticons-lineal-color-flat-icons.png" width="70" alt="PullRequest" />
-        <br><b style="color: #FF69B4;">Pull Requests</b>
-        <br><span style="color: #FFD700;">Super Puller</span>
-        <br><i style="color: #00FFFF;">200pts</i>
+        <img src="https://img.icons8.com/color/96/000000/pull-request.png" alt="Pull Request Icon" width="80">
+        <h4>Pull Requests</h4>
+        <p>Super Puller</p>
+        <p><b>200pt</b></p>
       </td>
     </tr>
   </table>
 </div>
 
+
+           
 ---
 
 <div>
