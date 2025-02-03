@@ -1,8 +1,8 @@
   <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Patrick+Hand+SC&size=18&color=00FFFF&center=true&vCenter=true&lines=Welcome+to+My+Github+Universe+!;Welcome+to+My+Github+Universe+!;Welcome+to+My+Github+Universe+!" alt="Typing SVG" width="600">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Patrick+Hand+SC&size=18&color=00FFFF&center=true&vCenter=true&lines=Welcome+to+My+Github+Profile+!;Welcome+to+My+Github+Profile+!;Welcome+to+My+Github+Profile+!" alt="Typing SVG" width="600">
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Patrick+Hand+SC&size=28&color=00FFFF&center=true&vCenter=true&lines=I'm+MasterJodd+!;I'm+MasterJodd+!;I'm+MasterJodd+!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Patrick+Hand+SC&size=28&color=00FFFF&center=true&vCenter=true&lines=I'm+Master Braxy+!;I'm+Master Braxy+!;I'm+Master Braxy+!" alt="Typing SVG">
 </div>   
 
 
@@ -22,7 +22,7 @@
 
 <div align="center">
   <h2 style="font-family: 'Orbitron', sans-serif; color: #00FFFF; text-shadow: 0px 0px 8px #00FFFF;">
-    👾 Hi there! I'm <span style="color: #FF69B4;">Master Braxy</span>
+    👾 Hi there! I'm <span style="color: #FF69B4;">Priyanshu Raj</span>
   </h2>
   <p style="font-family: 'Roboto', sans-serif; color: #E0FFFF; font-size: 18px; line-height: 1.8; max-width: 600px; text-align: justify;">
     A passionate tech enthusiast, constantly exploring the uncharted realms of <span style="color: #FFD700;">AI</span>, 
