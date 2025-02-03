@@ -22,7 +22,7 @@
 
 <div align="center">
   <h2 style="font-family: 'Orbitron', sans-serif; color: #00FFFF; text-shadow: 0px 0px 8px #00FFFF;">
-    👾 Hi there! I'm <span style="color: #FF69B4;">MasterJodd</span>
+    👾 Hi there! I'm <span style="color: #FF69B4;">Master Braxy</span>
   </h2>
   <p style="font-family: 'Roboto', sans-serif; color: #E0FFFF; font-size: 18px; line-height: 1.8; max-width: 600px; text-align: justify;">
     A passionate tech enthusiast, constantly exploring the uncharted realms of <span style="color: #FFD700;">AI</span>, 
