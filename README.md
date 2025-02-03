@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Patrick+Hand+SC&size=18&color=00FFFF&center=true&vCenter=true&lines=Welcome+to+My+Github+Profile+!;Welcome+to+My+Github+Profile+!;Welcome+to+My+Github+Profile+!" alt="Typing SVG" width="600">
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Patrick+Hand+SC&size=28&color=00FFFF&center=true&vCenter=true&lines=I'm+Master Braxy+!;I'm+Master Braxy+!;I'm+Master Braxy+!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Patrick+Hand+SC&size=28&color=00FFFF&center=true&vCenter=true&lines=I'm+MasterBraxy+!;I'm+MasterBraxy+!;I'm+MasterBraxy+!" alt="Typing SVG">
 </div>   
 
 
