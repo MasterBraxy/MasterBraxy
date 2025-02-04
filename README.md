@@ -1,9 +1,6 @@
-  <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Patrick+Hand+SC&size=18&color=00FFFF&center=true&vCenter=true&lines=Welcome+to+My+Github+Profile+!;Welcome+to+My+Github+Profile+!;Welcome+to+My+Github+Profile+!" alt="Typing SVG" width="600">
-</div>
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Patrick+Hand+SC&size=28&color=00FFFF&center=true&vCenter=true&lines=I'm+MasterBraxy+!;I'm+MasterBraxy+!;I'm+MasterBraxy+!" alt="Typing SVG">
-</div>   
+<p align="center" style="margin-bottom: 20px;">
+  <img src="https://github.com/user-attachments/assets/a1434aaf-cf43-4335-905b-80c4edc2d1f8" alt="Welcome Banner" width="100%" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.3);"/>
+</p>
 
 
 ---
@@ -16,14 +13,11 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Patrick+Hand+SC&color=FFFF00&size=26&lines=About+Me+:">  
 </div>
 
-<p align="center" style="margin-bottom: 20px;">
-  <img src="https://github.com/user-attachments/assets/a1434aaf-cf43-4335-905b-80c4edc2d1f8" alt="Welcome Banner" width="100%" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.3);"/>
-</p>
 
 <div align="center">
-  <h2 style="font-family: 'Orbitron', sans-serif; color: #00FFFF; text-shadow: 0px 0px 8px #00FFFF;">
-    👾 Hi there! I'm <span style="color: #FF69B4;">Priyanshu Raj</span>
-  </h2>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Patrick+Hand+SC&size=28&color=00FFFF&center=true&vCenter=true&lines=I'm+Priyanshu+Raj+!;I'm+Priyanshu+Raj+!;I'm+Priyanshu+Raj+!" alt="Typing SVG">
+</div>   
   <p style="font-family: 'Roboto', sans-serif; color: #E0FFFF; font-size: 18px; line-height: 1.8; max-width: 600px; text-align: justify;">
     A passionate tech enthusiast, constantly exploring the uncharted realms of <span style="color: #FFD700;">AI</span>, 
     <span style="color: #FFD700;">Web Development</span>, and <span style="color: #FFD700;">cutting-edge technologies</span>.
