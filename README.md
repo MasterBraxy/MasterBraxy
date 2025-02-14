@@ -95,14 +95,14 @@
 </div> 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MasterJodd&show_icons=true&theme=radical" alt="GitHub Stats" width="400">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasterJodd&layout=compact&theme=radical" alt="Top Langs" width="400">  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MasterJodd&theme=radical" alt="Streak Stats" width="400">  
+  <img src="https://github-readme-stats.vercel.app/api?username=MasterBraxy&show_icons=true&theme=radical" alt="GitHub Stats" width="400">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasterBraxy&layout=compact&theme=radical" alt="Top Langs" width="400">  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MasterBraxy&theme=radical" alt="Streak Stats" width="400">  
 </div>  
 
 ---
 <div align=center background>
-  <img src="https://github-profile-trophy.vercel.app/?username=MasterJodd&no-bg=true&no-frame=true&row=2&column=3"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MasterBraxy&no-bg=true&no-frame=true&row=2&column=3"/>
 </div>
 
            
@@ -113,10 +113,10 @@
 </div>  
 
 <div align="center">
-  <a href="mailto:priyanshugupta131208@gmail.com">
+  <a href="mailto:priyanshurajofficial8@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://www.instagram.com/masterr_jod/">
+  <a href="https://www.instagram.com/masterbraxy/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://x.com/Priyanshu_rajx">
