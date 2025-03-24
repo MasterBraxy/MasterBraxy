@@ -42,12 +42,6 @@
         - 💡 Motto: <em>"Push limits. Break boundaries. Innovate endlessly."</em>
       </td>
     </tr>
-    <tr>
-      <td>💬 <b>Fun Fact</b></td>
-      <td>
-        When I’m not coding, I’m probably exploring <b>astrophysics</b> or dreaming up futuristic ideas!
-      </td>
-    </tr>
   </table>
 </div>
 
