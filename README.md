@@ -29,7 +29,7 @@
     <tr>
       <td>✨ <b>What I Love</b></td>
       <td>
-        - Solving complex problems with elegant code 🛠️ <br>
+        - Solving complex problems with elegant code. 🛠️ <br>
         - Building innovative projects that impact lives 🌍 <br>
         - Collaborating on exciting tech initiatives 🤝
       </td>
