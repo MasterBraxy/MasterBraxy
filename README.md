@@ -13,7 +13,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Patrick+Hand+SC&color=FFFF00&size=26&lines=About+Me+:">  
 </div>
 
-
 <div align="center">
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Patrick+Hand+SC&size=28&color=00FFFF&center=true&vCenter=true&lines=I'm+Priyanshu+Raj+!;I'm+Priyanshu+Raj+!;I'm+Priyanshu+Raj+!" alt="Typing SVG">
@@ -23,31 +22,20 @@
     <span style="color: #FFD700;">Web Development</span>, and <span style="color: #FFD700;">cutting-edge technologies</span>..
   </p>
 </div>
-
 <div align="center">
-  <table style="border: 2px solid #FF69B4; border-radius: 10px; padding: 10px; background-color: #121212; color: #E0FFFF; font-family: 'Roboto', sans-serif;">
-    <tr>
-      <td>✨ <b>What I Love</b></td>
-      <td>
-        - Solving complex problems with elegant code. 🛠️ <br>
-        - Building innovative projects that impact lives 🌍 <br>
-        - Collaborating on exciting tech initiatives 🤝
-      </td>
-    </tr>
-    <tr>
-      <td>🚀 <b>Quick Facts</b></td>
-      <td>
-        - 🔭 Currently diving deep into <b>AI</b> and <b>Full-Stack Web Development</b>.<br>
-        - 🌱 Believe in <b>learning as a lifelong journey</b>.<br>
-        - 💡 Motto: <em>"Push limits. Break boundaries. Innovate endlessly."</em>
-      </td>
-    </tr>
-  </table>
-</div>
-
-
+  <a href="mailto:priyanshurajofficial8@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.instagram.com/masterbraxy/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://x.com/Priyanshu_rajx">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+</div>  
 
 ---
+
 <div>
 <img src="https://readme-typing-svg.herokuapp.com?font=Patrick+Hand+SC&color=FFFF00&size=26&lines=Tech+Stack+:">  
 </div>  
@@ -108,24 +96,5 @@
 - 🎯 **Goal**: Make advanced learning materials universally accessible.  
 - 🛠️ **Tech Stack**: 
 
----
-
-<div>
-<img src="https://readme-typing-svg.herokuapp.com?font=Patrick+Hand+SC&color=FFFF00&size=26&lines=Let's+Connect+:">  
-</div>  
-
-<div align="center">
-  <a href="mailto:priyanshurajofficial8@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.instagram.com/masterbraxy/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://x.com/Priyanshu_rajx">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-</div>  
-
----
 
 ✨ *Feel free to explore my repositories, fork, and star your favorites! Together, let’s innovate and inspire!*  
