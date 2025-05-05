@@ -46,30 +46,6 @@
 </div>
 
 
-<div>
-<img src="https://readme-typing-svg.herokuapp.com?font=Patrick+Hand+SC&color=FFFF00&size=26&lines=Current+Projects+:">  
-</div> 
- 
-📚 **[EduViti](https://eduviti.me)**  
-> Your ultimate educational companion!  
-- 🔍 **Focus**: Simplifying learning with curated courses and resources.  
-- 🌟 **Features**:  
-  - Comprehensive resources for school and college students.  
-  - Interactive problem-solving tools for deeper understanding.  
-  - AI-powered learning modules for personalized education.  
-- 🛠️ **Tech Stack**:<br> ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
-
----
-
-<div>
-<img src="https://readme-typing-svg.herokuapp.com?font=Patrick+Hand+SC&color=FFFF00&size=26&lines=Upcoming+Projects+:">  
-</div>  
-
-🚀 **[Theorix](#)**  
-> A revolutionary platform offering free learning resources for science and mathematics.  
-- 📂 **Focus**: Access to research papers, curated videos, and theoretical books.  
-- 🎯 **Goal**: Make advanced learning materials universally accessible.  
-- 🛠️ **Tech Stack**: 
 
 ---
 <div>
@@ -105,6 +81,33 @@
 </p>
 
            
+---
+
+<div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Patrick+Hand+SC&color=FFFF00&size=26&lines=Current+Projects+:">  
+</div> 
+ 
+📚 **[EduViti](https://eduviti.me)**  
+> Your ultimate educational companion!  
+- 🔍 **Focus**: Simplifying learning with curated courses and resources.  
+- 🌟 **Features**:  
+  - Comprehensive resources for school and college students.  
+  - Interactive problem-solving tools for deeper understanding.  
+  - AI-powered learning modules for personalized education.  
+- 🛠️ **Tech Stack**:<br> ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+
+---
+
+<div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Patrick+Hand+SC&color=FFFF00&size=26&lines=Upcoming+Projects+:">  
+</div>  
+
+🚀 **[Theorix](#)**  
+> A revolutionary platform offering free learning resources for science and mathematics.  
+- 📂 **Focus**: Access to research papers, curated videos, and theoretical books.  
+- 🎯 **Goal**: Make advanced learning materials universally accessible.  
+- 🛠️ **Tech Stack**: 
+
 ---
 
 <div>
