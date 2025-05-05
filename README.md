@@ -95,9 +95,14 @@
 </div>  
 
 ---
-<div align=center background>
-  <img src="https://github-profile-trophy.vercel.app/?username=MasterBraxy&no-bg=true&no-frame=true&row=2&column=3"/>
-</div>
+
+<div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Patrick+Hand+SC&color=FFFF00&size=26&lines=🏆+Github+Trophies+:">  
+</div> 
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MasterBraxy&theme=radical&no-bg=true&no-frame=true&row=2&column=5" />
+</p>
 
            
 ---
