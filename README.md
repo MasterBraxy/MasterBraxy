@@ -2,10 +2,6 @@
   <img src="https://github.com/user-attachments/assets/a1434aaf-cf43-4335-905b-80c4edc2d1f8" alt="Welcome Banner" width="100%" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.3);"/>
 </p>
 <br>
-<br>
-<div>
-<img src="https://readme-typing-svg.herokuapp.com?font=Patrick+Hand+SC&color=FFFF00&size=26&lines=About+Me+:">  
-</div>
 <div align="center">
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Patrick+Hand+SC&size=28&color=00FFFF&center=true&vCenter=true&lines=I'm+Priyanshu+Raj+!;I'm+Priyanshu+Raj+!;I'm+Priyanshu+Raj+!" alt="Typing SVG">
@@ -28,7 +24,7 @@
 </div>  
 
 ---
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MasterBraxy&label=Master+Braxy's%20Profile%20Visitors&color=blueviolet&style=flat" alt="MasterBraxy" /> </p>
 <div>
 <img src="https://readme-typing-svg.herokuapp.com?font=Patrick+Hand+SC&color=FFFF00&size=26&lines=Tech+Stack+:">  
 </div>  
