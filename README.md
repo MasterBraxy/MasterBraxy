@@ -75,15 +75,5 @@
 
 ---
 
-<div>
-<img src="https://readme-typing-svg.herokuapp.com?font=Patrick+Hand+SC&color=FFFF00&size=26&lines=Upcoming+Projects+:">  
-</div>  
-
-🚀 **[Theorix](#)**  
-> A revolutionary platform offering free learning resources for science and mathematics.  
-- 📂 **Focus**: Access to research papers, curated videos, and theoretical books.  
-- 🎯 **Goal**: Make advanced learning materials universally accessible.  
-- 🛠️ **Tech Stack**: 
-
 
 ✨ *Feel free to explore my repositories, fork, and star your favorites! Together, let’s innovate and inspire!*  
