@@ -60,4 +60,4 @@
            
 ---
 
-✨ *Feel free to explore my repositories, fork, and star your favorites ! Together, let’s innovate and inspire !*  
+✨ *Feel free to explore my repositories, fork, and star your favorites ! Together, let’s innovate and inspire!*  
