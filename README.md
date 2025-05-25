@@ -8,7 +8,7 @@
 </div>   
   <p style="font-family: 'Roboto', sans-serif; color: #E0FFFF; font-size: 18px; line-height: 1.8; max-width: 600px; text-align: justify;">
     A passionate tech enthusiast, constantly exploring <span style="color: #FFD700;">AI</span>, 
-    <span style="color: #FFD700;">Web Development</span>, and <span style="color: #FFD700;">cutting-edge technologies</span>.
+    <span style="color: #FFD700;">Web Development</span>, and <span style="color: #FFD700;">cutting-edge technologies</span>..
   </p>
 </div>
 <div align="center">
