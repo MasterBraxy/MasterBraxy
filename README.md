@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Patrick+Hand+SC&size=28&color=00FFFF&center=true&vCenter=true&lines=I'm+Priyanshu+Raj+!;I'm+Priyanshu+Raj+!;I'm+Priyanshu+Raj+!" alt="Typing SVG">
 </div>   
   <p style="font-family: 'Roboto', sans-serif; color: #E0FFFF; font-size: 18px; line-height: 1.8; max-width: 600px; text-align: justify;">
-    A passionate tech enthusiast, constantly exploring <span style="color: #FFD700;">AI</span>, 
+    A passionate tech guy, constantly exploring <span style="color: #FFD700;">AI</span>, 
     <span style="color: #FFD700;">Web Development</span>, and <span style="color: #FFD700;">cutting-edge technologies.</span>
   </p>
 </div>
